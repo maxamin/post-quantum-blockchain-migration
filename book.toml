@@ -1,0 +1,7 @@
+[book]
+title = "Post-Quantum Migration for Blockchains"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/post-quantum-blockchain-migration"
